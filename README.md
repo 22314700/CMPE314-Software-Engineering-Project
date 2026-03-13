@@ -4,7 +4,7 @@ Topic : Car Rental Sytem
 
 #Staff List
 
-|         Name         |                   Role                  |                                       Skills/Responsibilities                                      |
+|---------Name---------|                   Role                  |                                       Skills/Responsibilities                                      |
 
 |  Alp Batuhan Bilgin  |     Project Manager/Support & Tester    | Oversees all tasks, manages risks, clientcommunication,Testing,user acceptance testing             |
 
